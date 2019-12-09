@@ -1,5 +1,5 @@
 <div align="center">
-< img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlDe4ZXrWpa4vFKWNbxL-5f7BHCThyatBtK2gHrAq2IkpQKGq&s" width = "70" height = "70">
+< img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlDe4ZXrWpa4vFKWNbxL-5f7BHCThyatBtK2gHrAq2IkpQKGq&s">
 </div>
 
 # IEOR 4501: Tools for Analytics Final Project - Squirrel Tracker 
